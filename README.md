@@ -3,7 +3,7 @@
 
 ## Demonstration
 
-- Check out a demo of our 3D depth estimation. [here](https://drive.google.com/file/d/1Ly3STceOTAws5W7EJGc7k6AEyFfgvi4U/view?usp=sharing).
+- Check out a demo of our 3D Z-estimation. [here](https://drive.google.com/file/d/1Ly3STceOTAws5W7EJGc7k6AEyFfgvi4U/view?usp=sharing).
 
 ## Overview
 
