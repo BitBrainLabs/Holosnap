@@ -3,7 +3,7 @@
 
 ## Demonstration
 
-- Download/View a sample of our output [here](demo/hhh/test.mp4).
+- Check out a demo of our 3D depth estimation. [here](demo/hhh/test.mp4).
 
 ## Overview
 
@@ -36,13 +36,13 @@ Holosnap transforms 2D images and videos into 3D models including `.obj`, `.glb`
 
 ## Technologies Employed
 
-- **Deep Learning & Generative AI:** Harnessing cutting-edge AI to improve 3D model generation.
+- **Deep Learning & Generative AI:** Leveraging cutting-edge AI to enhance 3D model generation.
 - **PyTorch:** The preferred framework for AI model development and training.
 
 ## Research and Development
 
-- **Research Initiatives:** Keeping pace with emerging trends through top conferences such as ICCV and ICLR.
-- **Custom Development:** Tailoring algorithms from the ground up to meet specialized demands of 3D reconstruction.
+- **Research Initiatives:** Staying updated with the latest trends by going through the research papers of top conferences like ICCV and ICLR.
+- **Custom Development:** Customizing algorithms from scratch to meet specific needs in 3D reconstruction.
 
 ## Future Publications
 
@@ -68,4 +68,4 @@ This project is licensed under the MIT License. Details can be found in the `LIC
 
 ## Contact
 
-For inquiries, reach out via [Company Website](https://thekowcompany.com/) or our email at ak@thekowcompany.com
+For inquiries, reach out via [Company Website](https://thekowcompany.com/) or email us at ak@thekowcompany.com
